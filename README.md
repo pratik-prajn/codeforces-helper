@@ -60,7 +60,7 @@
 | ---------- | ------------------------------- |
 | Frontend   | React, JavaScript, Tailwind CSS |
 | Backend    | Node.js, Express.js             |
-| Database   | MongoDB                         |
+| Database   | mysql                         |
 | API        | Codeforces API                  |
 | Deployment | Heroku / Vercel                 |
 
